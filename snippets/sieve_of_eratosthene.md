@@ -1,8 +1,8 @@
 ---
 title: Sieve Of Eratosthenes
-tags: math, primes
+tags: math primes
 expertise: intermediate
-cover: [blog_images/digital-nomad-15.jpg](https://upload.wikimedia.org/wikipedia/commons/b/b9/Sieve_of_Eratosthenes_animation.gif)
+cover: https://upload.wikimedia.org/wikipedia/commons/b/b9/Sieve_of_Eratosthenes_animation.gif
 ---
 
 Calculates the prime from 1 to N.
