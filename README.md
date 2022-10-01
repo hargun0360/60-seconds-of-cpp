@@ -1,4 +1,4 @@
-[![Logo](/logo.png)](https://30secondsofcode.org/python/p/1)
+
 
 # 60 seconds of code
 
