@@ -270,7 +270,9 @@ L.insert(6,3);
 Delete an element in linked list
 
 ```cpp
-L.delete(3);
+
+int del = L.delete(3);
+cout<< "Deleted element is "<< del << endl;
 # position of element to be deleted is 3
 # resulting list [1,2,3,4,5]
 ```
