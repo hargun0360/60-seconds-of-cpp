@@ -15,7 +15,7 @@
 * If you find a problem with a specific snippet, please [open an issue]
 * If you find a problem with the website, please [report it in the web repository].
 
-## What not do ?
+## What not to do ?
 - ![#f03c15](https://via.placeholder.com/15/f03c15/f03c15.png) `Don't create duplicate PR`
 - ![#f03c15](https://via.placeholder.com/15/f03c15/f03c15.png) `Don't create PR for algorithm/Problem solutions`
 - ![#f03c15](https://via.placeholder.com/15/f03c15/f03c15.png) `Don't create PR other than C++ lagnuage`
