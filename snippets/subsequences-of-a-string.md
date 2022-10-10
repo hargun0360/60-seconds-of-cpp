@@ -1,7 +1,7 @@
 ---
-title: subsequences of a string | Iterative Method
+title: Subsequences of a String | Iterative Method
 tags: Bits manipulation
-expertise: intermediate
+expertise: Intermediate
 ---
 
 ```
